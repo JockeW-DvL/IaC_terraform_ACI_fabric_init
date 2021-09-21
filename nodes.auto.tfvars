@@ -1,7 +1,7 @@
 
 node_member                  = {
   NODE1                        = {
-    name                         = "spine-01a"
+    name                         = "spine-01A"
     serial                       = "FDO25240NEL"
     fabric_id                    = "1"
     node_id                      = "1901"
